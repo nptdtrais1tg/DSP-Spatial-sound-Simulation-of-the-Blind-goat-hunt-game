@@ -1,0 +1,2 @@
+# DSP-Spatial-sound-Simulation-of-the-Blind-goat-hunt-game
+A real-time, bidirectional spatial audio streaming system built entirely from scratch in Python. By utilizing classical Digital Signal Processing (DSP) and a dual-channel UDP architecture, the system calculates 3D acoustic cues (ITD, ILD) locally to achieve ultra-low latency (25-30 ms). Integrated into a asymmetric multiplayer blind-seek game.
